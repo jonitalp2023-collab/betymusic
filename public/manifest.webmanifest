@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "Betty Music",
+  "short_name": "Betty Music",
+  "description": "Tu música, tu momento.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff8fb",
+  "theme_color": "#f6a6c8",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
